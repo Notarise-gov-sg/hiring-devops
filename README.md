@@ -67,6 +67,7 @@ Automation is key in DevOps to continuously deliver value, so we will need to cr
 Since our team uses Github Actions primarily, we will require you to use **Github Actions** as the CICD tool of choice, we understand that you may come from a background using jenkins, travis etc. but we think that it is easy enough to pick up even if you have no prior experience with it.
 
 **Note**
+
 Since this is a assessment, you do not need to do a `sls deploy`, a simple `sls package` will suffice for the purpose of this interview.
 
 #### Task
@@ -108,7 +109,9 @@ Security is paramount, and threats are never ending. We need to think how we can
 
 Make use of AWS services to secure and monitor this serverless application
 
-**Note** If the implementation requires certain AWS resources created outside serverless to be referenced, you can rely on psuedo code to imply you have included it, as this assessment does not include an AWS account for you to use.
+**Note**
+
+If the implementation requires certain AWS resources created outside serverless to be referenced, you can rely on psuedo code to imply you have included it, as this assessment does not include an AWS account for you to use.
 
 #### Deliverable
 
