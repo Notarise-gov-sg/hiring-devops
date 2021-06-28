@@ -32,6 +32,12 @@ Allows for us to share knowledge and better understanding of our environments, t
 
 Developers comes first, this means we don't pick a technology and find ways to use it for developers, but think of what problems developers have, and find technologies that best fit the problem. This also means that tools we choose need to be developer friendly, and not become a chore to use.
 
+### Low maintenance and making ourselves useless
+
+As much as possible we want to make machines do the work, but we don't want to spend more time maintaining these machines. So services that help to reduce/remove maintenance effort is preferred so that we can spend our time on more valuable work.
+
+###
+
 ## Task Overview
 
 There are 4 tasks that you need to complete. The section on developer environment is a bonus section if you will like to push yourself. There is no time limit on this, feel free to modify your setup up till the interview session.
@@ -93,7 +99,7 @@ Security is paramount, and threats are never ending. We need to think how we can
 
 #### Task
 
-make use of AWS services to secure this API
+Make use of AWS services to secure this API
 
 #### Deliverable
 
