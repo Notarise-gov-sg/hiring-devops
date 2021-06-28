@@ -22,7 +22,7 @@ You will also need the following accounts:
 
 ## Guiding principles
 
-In this team, we value the following, and will lookout for implementations that adhere to these principals, therefore solutions that encompasses these principals will be highly valued and preferred.
+In this team, we value the following, and will lookout for implementations that adhere to these principles, therefore solutions that encompasses these principles will be highly valued and preferred.
 
 ### Everything as code over manual processes
 
