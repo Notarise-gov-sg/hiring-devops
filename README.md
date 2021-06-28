@@ -66,6 +66,9 @@ Automation is key in DevOps to continuously deliver value, so we will need to cr
 
 Since our team uses Github Actions primarily, we will require you to use **Github Actions** as the CICD tool of choice, we understand that you may come from a background using jenkins, travis etc. but we think that it is easy enough to pick up even if you have no prior experience with it.
 
+**Note**
+Since this is a assessment, you do not need to do a `sls deploy`, a simple `sls package` will suffice for the purpose of this interview.
+
 #### Task
 
 Create a pipeline that results in:
