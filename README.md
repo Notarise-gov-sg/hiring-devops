@@ -20,7 +20,7 @@ You will also need the following accounts:
 
 - github.com
 
-## Guiding principals
+## Guiding principles
 
 In this team, we value the following, and will lookout for implementations that adhere to these principals, therefore solutions that encompasses these principals will be highly valued and preferred.
 
@@ -62,6 +62,10 @@ There are 4 tasks that you need to complete. The section on developer environmen
 #### Context
 Automation is key in DevOps to continuously deliver value, so we will need to create a CICD pipeline for this repository, so changes are tested, and packaged for deployments. Since we will not be deploying to an actual AWS account, you may stop just short of it.
 
+#### Requirement
+
+Since our team uses Github Actions primarily, we will require you to use **Github Actions** as the CICD tool of choice, we understand that you may come from a background using jenkins, travis etc. but we think that it is easy enough to pick up even if you have no prior experience with it.
+
 #### Task
 
 Create a pipeline that results in:
@@ -85,7 +89,7 @@ While build/test/release process of the pipeline is simple to start, typically e
 
 #### Task
 
-Where appropriate, select and implement tools in your pipeline that can help to perform security scanning and updates. You will be asked to explain how you decided on these tools. When in doubt, refer to the [guiding principals](#guiding-principals)
+Where appropriate, select and implement tools in your pipeline that can help to perform security scanning and updates. You will be asked to explain how you decided on these tools. When in doubt, refer to the [guiding principles](#guiding-principles)
 
 #### Deliverable
 
