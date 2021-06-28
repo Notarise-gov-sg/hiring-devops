@@ -50,7 +50,7 @@ There are 4 tasks that you need to complete. The section on developer environmen
 | ---------------------------- | --------- |
 | Pipeline                     | 20%       |
 | Good Practices               | 35%       |
-| Securing the infrastructure  | 35%       |
+| Securing serverless          | 35%       |
 | Documentation                | 10%       |
 | Developer Environment(Bonus) | 20%       |
 
