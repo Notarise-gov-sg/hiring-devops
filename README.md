@@ -20,6 +20,10 @@ You will also need the following accounts:
 
 - github.com
 
+**Note**
+
+This assessment will **not** require you to have an AWS account setup, as well as any services that requires monetary commitment from you. If you encounter any limitations because of this, you may comment it out from the implementation, or simple explain how your will implement it via psuedo code/documentation/diagrams.
+
 ## Guiding principles
 
 In this team, we value the following, and will lookout for implementations that adhere to these principles, therefore solutions that encompasses these principles will be highly valued and preferred.
