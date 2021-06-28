@@ -98,7 +98,7 @@ Where appropriate, select and implement tools in your pipeline that can help to 
 
 A demo during interview to see the dashboards/output of the various toolings if it is a private page, otherwise a link for us to view the output, and configurations
 
-### Securing the infrastructure
+### Securing serverless
 
 #### Context
 
@@ -106,7 +106,9 @@ Security is paramount, and threats are never ending. We need to think how we can
 
 #### Task
 
-Make use of AWS services to secure this API
+Make use of AWS services to secure and monitor this serverless application
+
+**Note** If the implementation requires certain AWS resources created outside serverless to be referenced, you can rely on psuedo code to imply you have included it, as this assessment does not include an AWS account for you to use.
 
 #### Deliverable
 
